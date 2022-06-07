@@ -3,4 +3,15 @@
     <string name="overview">Overview</string>
     <string name="gender">Gender</string>
     <string name="measurement">Measurement</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="editor_insert_pet_failed">Insert Failed</string>
+    <string name="editor_insert_pet_successful">Pet Added</string>
 </resources>
